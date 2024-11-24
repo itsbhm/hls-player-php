@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/hls-player/videos/ffmpeg -i raw/input.mp4 -codec: copy -start_number 0 -hls_time 10 -hls_list_size 0 -f hls output.m3u8

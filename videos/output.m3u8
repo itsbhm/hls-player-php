@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:12.000000,
+secure.php?file=output0.ts
+#EXTINF:9.000000,
+secure.php?file=output1.ts
+#EXTINF:9.000000,
+secure.php?file=output2.ts
+#EXTINF:0.033333,
+secure.php?file=output3.ts
+#EXT-X-ENDLIST
